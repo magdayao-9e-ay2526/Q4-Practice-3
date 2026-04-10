@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 .container{
     padding: 5px;
     background-color: yellow ;
@@ -5,3 +6,12 @@
     border-radius: 12px;
     
 }
+=======
+.container{
+    padding: 5px;
+    background-color: yellow ;
+    color: black;
+    border-radius: 12px;
+    
+}
+>>>>>>> Stashed changes
